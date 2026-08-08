@@ -49,7 +49,7 @@
 #define SX126X_CMD_SET_LORA_SYMB_NUM_TIMEOUT  0xA0
 
 #define SX126X_CMD_GET_STATUS                 0xC0
-#define SX126X_CMD_GET_RX_BUFFER_STATUS       0x14
+#define SX126X_CMD_GET_RX_BUFFER_STATUS       0x13
 #define SX126X_CMD_GET_PACKET_STATUS          0x14
 #define SX126X_CMD_GET_RSSI_INST              0x15
 #define SX126X_CMD_GET_STATS                  0x10
