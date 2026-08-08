@@ -1,0 +1,8 @@
+//keywords.txt
+//Chrome AI
+
+SX1262	KEYWORD1
+setStandby	KEYWORD2
+setRfFrequency	KEYWORD2
+setTx	KEYWORD2
+setRx	KEYWORD2
