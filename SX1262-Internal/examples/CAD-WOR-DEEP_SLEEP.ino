@@ -1,6 +1,6 @@
 /*
   EoRa-S#-900TB (EoRa Pi) -- Outside BME280 Sensor Node
-  Custom SX1262.hpp + ESP-NOW (Optimized for Core 3.3.10)
+  Custom SX1262.h + ESP-NOW (Required ESP32 Core 3.3.10)
 */
 
 #define EoRa_PI_V1
@@ -15,7 +15,7 @@
 #include <SPI.h>
 #include <BME280I2C.h>
 #include "driver/gpio.h"
-#include "SX1262.h"  // Your custom lightweight driver
+#include "SX1262.h"  // Internal commands for Samtech SX1262
 
 // --- Hardware & Network Pin Definitions ---
 //Using Ebyte's config files boards.h and utilites.h
