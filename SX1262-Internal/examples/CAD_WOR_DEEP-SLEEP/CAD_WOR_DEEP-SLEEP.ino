@@ -15,7 +15,7 @@
 #include <SPI.h>
 #include <BME280I2C.h>
 #include "driver/gpio.h"
-#include "SX1262.h"  // Your custom lightweight driver
+#include "SX1262.h"  // Based on Samtech's Datasheet
 
 // --- Hardware & Network Pin Definitions ---
 //Using Ebyte's config files boards.h and utilites.h
