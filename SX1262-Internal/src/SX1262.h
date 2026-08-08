@@ -1,4 +1,8 @@
 //ChatGPT modified SX1262 library
+//August 7, 2026
+//ESP32 Core 3.3.10
+//Optimized for Ebyte-S3-900TB
+//Untested other esp32-s3, sx1262 devices
 
 #ifndef SX1262_HPP
 #define SX1262_HPP
